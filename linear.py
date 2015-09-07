@@ -18,4 +18,3 @@ ridge_score = clf_ridge.score(X_test, y_test)
 print y_test
 print clf_linear.predict(X_test)
 print clf_ridge.predict(X_test)
-print 1
